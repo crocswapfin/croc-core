@@ -1,0 +1,9 @@
+node_modules/
+build/
+secrets.json
+hardhat.config.ts
+
+artifacts/
+cache/
+typechain/
+migrations/
